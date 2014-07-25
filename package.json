@@ -6,7 +6,7 @@
 
   "license": "MIT",
 
-  "version": "1.0.1",
+  "version": "1.0.2",
 
   "keywords": [
     "mongoose",
@@ -32,11 +32,11 @@
   },
 
   "repository": {
-    "url": "git://github.com/satisfeet/mongoose-assert.git"
+    "url": "git://github.com/bodokaiser/mongoose-assert.git"
   },
 
   "bugs": {
-    "url": "https://github.com/satisfeet/mongoose-assert/issues"
+    "url": "https://github.com/bodokaiser/mongoose-assert/issues"
   }
 
 }
